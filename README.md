@@ -8,3 +8,4 @@ test 345
 
 <br> FÅtt til enkel enhet på mesh-nettet for lysstyring. 
 "Build" for "light" og "light_switch" er ikke på git!!!! :) !!!
+<br> kan bytte navn på enheten i prj.conf under "CONFIG_BT_DEVICE_NAME="
