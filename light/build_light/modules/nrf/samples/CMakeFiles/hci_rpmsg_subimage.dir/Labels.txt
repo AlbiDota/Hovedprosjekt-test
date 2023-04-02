@@ -1,0 +1,13 @@
+# Target labels
+ hci_rpmsg_subimage
+# Source files and their labels
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage-complete.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-build.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-configure.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-download.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-install.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-mkdir.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-patch.rule
+C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-update.rule

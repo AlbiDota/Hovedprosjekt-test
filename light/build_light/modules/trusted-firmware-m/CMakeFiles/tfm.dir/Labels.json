@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/CMakeFiles/tfm"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/CMakeFiles/tfm.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/CMakeFiles/tfm-complete.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-build.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-configure.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-download.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-install.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-mkdir.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-patch.rule"
+		},
+		{
+			"file" : "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tfm"
+		],
+		"name" : "tfm"
+	}
+}

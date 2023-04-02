@@ -1,0 +1,471 @@
+The target system is: Generic - 3.2.99 - arm
+The host system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/nordicsemi/toolchains/v2.3.0/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/3.20.5/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/nordicsemi/toolchains/v2.3.0/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-zephyr-eabi-gcc.exe (Zephyr SDK 0.15.2) 12.1.0
+Copyright (C) 2022 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nordic_myapps_Hovedprosjekt_test_light_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_a5bb4 && [1/2] Building C object CMakeFiles/cmTC_a5bb4.dir/src.c.obj
+[2/2] Linking C executable cmTC_a5bb4
+
+
+Source file was:
+int main(void) { return 0; }
+Determining if files stdatomic.h exist passed with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_9b30c && [1/2] Building C object CMakeFiles/cmTC_9b30c.dir/HAVE_STDATOMIC_H.c.obj
+[2/2] Linking C executable cmTC_9b30c
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_9b30c.dir/HAVE_STDATOMIC_H.c.obj: linker input file unused because linking not done
+
+
+
+Determining if files fcntl.h exist passed with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_bcf41 && [1/2] Building C object CMakeFiles/cmTC_bcf41.dir/HAVE_FCNTL_H.c.obj
+[2/2] Linking C executable cmTC_bcf41
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_bcf41.dir/HAVE_FCNTL_H.c.obj: linker input file unused because linking not done
+
+
+
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_f84e6 && [1/2] Building C object CMakeFiles/cmTC_f84e6.dir/src.c.obj
+[2/2] Linking C executable cmTC_f84e6
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_f84e6.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0_ succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_bea2d && [1/2] Building C object CMakeFiles/cmTC_bea2d.dir/src.c.obj
+[2/2] Linking C executable cmTC_bea2d
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_bea2d.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wall_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_72d15 && [1/2] Building C object CMakeFiles/cmTC_72d15.dir/src.c.obj
+[2/2] Linking C executable cmTC_72d15
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_72d15.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wformat__Wformat_security_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_85417 && [1/2] Building C object CMakeFiles/cmTC_85417.dir/src.c.obj
+[2/2] Linking C executable cmTC_85417
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_85417.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wformat__Wformat_zero_length_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_063c8 && [1/2] Building C object CMakeFiles/cmTC_063c8.dir/src.c.obj
+[2/2] Linking C executable cmTC_063c8
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_063c8.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmain_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_5c8c4 && [1/2] Building C object CMakeFiles/cmTC_5c8c4.dir/src.c.obj
+[2/2] Linking C executable cmTC_5c8c4
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_5c8c4.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_sign_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_e6fe8 && [1/2] Building C object CMakeFiles/cmTC_e6fe8.dir/src.c.obj
+[2/2] Linking C executable cmTC_e6fe8
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_e6fe8.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_arith_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_5e7a0 && [1/2] Building C object CMakeFiles/cmTC_5e7a0.dir/src.c.obj
+[2/2] Linking C executable cmTC_5e7a0
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_5e7a0.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wexpansion_to_defined_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_39992 && [1/2] Building C object CMakeFiles/cmTC_39992.dir/src.c.obj
+[2/2] Linking C executable cmTC_39992
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_39992.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wlogical_op_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_58a2e && [1/2] Building C object CMakeFiles/cmTC_58a2e.dir/src.c.obj
+[2/2] Linking C executable cmTC_58a2e
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_58a2e.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmissing_field_initializers_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_685dd && [1/2] Building C object CMakeFiles/cmTC_685dd.dir/src.c.obj
+[2/2] Linking C executable cmTC_685dd
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_685dd.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpacked_bitfield_compat_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_8e9e6 && [1/2] Building C object CMakeFiles/cmTC_8e9e6.dir/src.c.obj
+[2/2] Linking C executable cmTC_8e9e6
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_8e9e6.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wvla_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_325db && [1/2] Building C object CMakeFiles/cmTC_325db.dir/src.c.obj
+[2/2] Linking C executable cmTC_325db
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_325db.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wunused_but_set_variable_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_7ec57 && [1/2] Building C object CMakeFiles/cmTC_7ec57.dir/src.c.obj
+[2/2] Linking C executable cmTC_7ec57
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_7ec57.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Werror_implicit_int_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_73090 && [1/2] Building C object CMakeFiles/cmTC_73090.dir/src.c.obj
+[2/2] Linking C executable cmTC_73090
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_73090.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_mstack_protector_guard_global_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_18e54 && [1/2] Building C object CMakeFiles/cmTC_18e54.dir/src.c.obj
+[2/2] Linking C executable cmTC_18e54
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_18e54.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_freestanding_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_ae476 && [1/2] Building C object CMakeFiles/cmTC_ae476.dir/src.c.obj
+[2/2] Linking C executable cmTC_ae476
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_ae476.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffreestanding_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_f1542 && [1/2] Building C object CMakeFiles/cmTC_f1542.dir/src.c.obj
+[2/2] Linking C executable cmTC_f1542
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_f1542.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_gdwarf_4_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_8ff9b && [1/2] Building C object CMakeFiles/cmTC_8ff9b.dir/src.c.obj
+[2/2] Linking C executable cmTC_8ff9b
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_8ff9b.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___print_memory_usage succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_f6108 && [1/2] Building C object CMakeFiles/cmTC_f6108.dir/src.c.obj
+[2/2] Linking C executable cmTC_f6108
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_f6108.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__pg succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_7c1be && [1/2] Building C object CMakeFiles/cmTC_7c1be.dir/src.c.obj
+[2/2] Linking C executable cmTC_7c1be
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_7c1be.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie__mcpu_cortex_m33__mthumb__mabi_aapcs__mfp16_format_ieee succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_2626d && [1/2] Building C object CMakeFiles/cmTC_2626d.dir/src.c.obj
+[2/2] Linking C executable cmTC_2626d
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_2626d.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___gc_sections succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_5c469 && [1/2] Building C object CMakeFiles/cmTC_5c469.dir/src.c.obj
+[2/2] Linking C executable cmTC_5c469
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_5c469.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___build_id_none succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_8eb0b && [1/2] Building C object CMakeFiles/cmTC_8eb0b.dir/src.c.obj
+[2/2] Linking C executable cmTC_8eb0b
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_8eb0b.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_common_descending succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_034a3 && [1/2] Building C object CMakeFiles/cmTC_034a3.dir/src.c.obj
+[2/2] Linking C executable cmTC_034a3
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_034a3.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_section_alignment succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_feed4 && [1/2] Building C object CMakeFiles/cmTC_feed4.dir/src.c.obj
+[2/2] Linking C executable cmTC_feed4
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_feed4.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__nostdlib succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_4e346 && [1/2] Building C object CMakeFiles/cmTC_4e346.dir/src.c.obj
+[2/2] Linking C executable cmTC_4e346
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_4e346.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__static succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_21739 && [1/2] Building C object CMakeFiles/cmTC_21739.dir/src.c.obj
+[2/2] Linking C executable cmTC_21739
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_21739.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__X succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_0fa35 && [1/2] Building C object CMakeFiles/cmTC_0fa35.dir/src.c.obj
+[2/2] Linking C executable cmTC_0fa35
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_0fa35.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__N succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_f03e2 && [1/2] Building C object CMakeFiles/cmTC_f03e2.dir/src.c.obj
+[2/2] Linking C executable cmTC_f03e2
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_f03e2.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___orphan_handling_warn succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_25180 && [1/2] Building C object CMakeFiles/cmTC_25180.dir/src.c.obj
+[2/2] Linking C executable cmTC_25180
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_25180.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_asynchronous_unwind_tables_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_22317 && [1/2] Building C object CMakeFiles/cmTC_22317.dir/src.c.obj
+[2/2] Linking C executable cmTC_22317
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_22317.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_reorder_functions_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_6fa42 && [1/2] Building C object CMakeFiles/cmTC_6fa42.dir/src.c.obj
+[2/2] Linking C executable cmTC_6fa42
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_6fa42.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check__param_min_pagesize_0_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_7f27e && [1/2] Building C object CMakeFiles/cmTC_7f27e.dir/src.c.obj
+[2/2] Linking C executable cmTC_7f27e
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_7f27e.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_defer_pop_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_94940 && [1/2] Building C object CMakeFiles/cmTC_94940.dir/src.c.obj
+[2/2] Linking C executable cmTC_94940
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_94940.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nordic_myapps_Hovedprosjekt_test_light_CMAKE_SOURCE_DIR_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_9f9b0 && [1/2] Building C object CMakeFiles/cmTC_9f9b0.dir/src.c.obj
+[2/2] Linking C executable cmTC_9f9b0
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_9f9b0.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nordicsemi_v2_3_0_zephyr_ZEPHYR_BASE_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_b622d && [1/2] Building C object CMakeFiles/cmTC_b622d.dir/src.c.obj
+[2/2] Linking C executable cmTC_b622d
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_b622d.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nordicsemi_v2_3_0_WEST_TOPDIR_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_47a95 && [1/2] Building C object CMakeFiles/cmTC_47a95.dir/src.c.obj
+[2/2] Linking C executable cmTC_47a95
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_47a95.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffunction_sections_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_915b3 && [1/2] Building C object CMakeFiles/cmTC_915b3.dir/src.c.obj
+[2/2] Linking C executable cmTC_915b3
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_915b3.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fdata_sections_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_6b302 && [1/2] Building C object CMakeFiles/cmTC_6b302.dir/src.c.obj
+[2/2] Linking C executable cmTC_6b302
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_6b302.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mcpu_cortex_m33__mthumb__mabi_aapcs__mfp16_format_ieee succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_31a7b && [1/2] Building C object CMakeFiles/cmTC_31a7b.dir/src.c.obj
+[2/2] Linking C executable cmTC_31a7b
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_31a7b.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }

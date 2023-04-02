@@ -1,0 +1,90 @@
+The target system is: Generic - 3.2.99 - arm
+The host system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/nordicsemi/toolchains/v2.3.0/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/3.20.5/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/nordicsemi/toolchains/v2.3.0/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-zephyr-eabi-gcc.exe (Zephyr SDK 0.15.2) 12.1.0
+Copyright (C) 2022 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie__mcpu_cortex_m33_nodsp__mthumb__mabi_aapcs__mfp16_format_ieee succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_e6cbd && [1/2] Building C object CMakeFiles/cmTC_e6cbd.dir/src.c.obj
+[2/2] Linking C executable cmTC_e6cbd
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nordicsemi_v2_3_0_zephyr_samples_bluetooth_hci_rpmsg_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_410ef && [1/2] Building C object CMakeFiles/cmTC_410ef.dir/src.c.obj
+[2/2] Linking C executable cmTC_410ef
+
+
+Source file was:
+int main(void) { return 0; }
+Determining if files stdatomic.h exist passed with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_fe819 && [1/2] Building C object CMakeFiles/cmTC_fe819.dir/HAVE_STDATOMIC_H.c.obj
+[2/2] Linking C executable cmTC_fe819
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_fe819.dir/HAVE_STDATOMIC_H.c.obj: linker input file unused because linking not done
+
+
+
+Determining if files fcntl.h exist passed with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_017b7 && [1/2] Building C object CMakeFiles/cmTC_017b7.dir/HAVE_FCNTL_H.c.obj
+[2/2] Linking C executable cmTC_017b7
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_017b7.dir/HAVE_FCNTL_H.c.obj: linker input file unused because linking not done
+
+
+
+Performing C SOURCE FILE Test check_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie__mcpu_cortex_m33_nodsp__mthumb__mabi_aapcs__mfp16_format_ieee succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_93660 && [1/2] Building C object CMakeFiles/cmTC_93660.dir/src.c.obj
+[2/2] Linking C executable cmTC_93660
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_93660.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nordicsemi_v2_3_0_zephyr_samples_bluetooth_hci_rpmsg_CMAKE_SOURCE_DIR_C__c__nostartfiles__nostdlib__isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__nordicsemi_toolchains_v2_3_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nordic/myapps/Hovedprosjekt-test/light/build_light/hci_rpmsg/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nordicsemi/toolchains/v2.3.0/opt/bin/ninja.exe cmTC_83a41 && [1/2] Building C object CMakeFiles/cmTC_83a41.dir/src.c.obj
+[2/2] Linking C executable cmTC_83a41
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_83a41.dir/src.c.obj: linker input file unused because linking not done
+
+
+Source file was:
+int main(void) { return 0; }
