@@ -1,5 +1,5 @@
 # Hovedprosjekt-test
-Vi skal prøve å kombinere bLE, Mesh og Direction Finding
+Vi skal prøvekjøre Bluetooth Low Energy og Mesh for lysstyring. I tilleg er Nordic Semiconductor sin eksempelkode for Distance Measurement inkludert i filene.
 ### testing 234 
 test 345
 <br> a
