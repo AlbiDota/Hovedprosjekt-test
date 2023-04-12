@@ -1,5 +1,5 @@
 # Hovedprosjekt-test
-Vi skal prøvekjøre Bluetooth Low Energy og Mesh for lysstyring. I tilleg er Nordic Semiconductor sin eksempelkode for Distance Measurement inkludert i filene.
+Vi skal prøvekjøre Bluetooth Low Energy og Mesh for lysstyring. I tillegg er Nordic Semiconductor sin eksempelkode for Distance Measurement inkludert i filene.
 ### testing 234 
 test 345
 <br> a
